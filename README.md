@@ -27,12 +27,21 @@ int main()
 ## The output to the screen (and file) is:
 
 memory address = 0xff20d8
+
 memory size = 60
+
 ProcessName = /home/pi/Desktop/MemoryLeakDetector/MemLeakDetector/bin/Debug/MemLeakDetector
+
 Process Time = Sat Feb  6 19:49:18 2021
+
 ProcessId = 8415
+
 ThreadId = 3069472784
+
 code line = 6
+
 code function = int main()
+
 code filename = /home/pi/Desktop/MemoryLeakDetector/MemLeakDetector/main.cpp
+
 Is Array = true
