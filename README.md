@@ -18,7 +18,9 @@ C++ (hpp) single file memory leak detector
 int main()
 {
     int * pint = new int[15];
+    
     PrintMemory();
+    
     return 0;
 }
 
