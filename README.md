@@ -16,7 +16,9 @@ C++ (hpp) single file memory leak detector
 #include "memleakdetection.hpp"
 
 int main()
+
 {
+
     int * pint = new int[15];
     
     PrintMemory();
